@@ -1,0 +1,43 @@
+<?xml version="1.0" encoding="utf-8"?>
+<SoundBanksInfo Platform="Windows" BasePlatform="Windows" SchemaVersion="11" SoundbankVersion="128">
+	<RootPaths>
+		<ProjectRoot>/Users/alysebrown/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/c:/users/crossover/My Documents/WwiseProjects/Tea Chi Tai Chi/</ProjectRoot>
+		<SourceFilesRoot>/Users/alysebrown/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/c:/users/crossover/My Documents/WwiseProjects/Tea Chi Tai Chi/.cache/Windows/</SourceFilesRoot>
+		<SoundBanksRoot>/Users/alysebrown/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/c:/users/crossover/My Documents/WwiseProjects/Tea Chi Tai Chi/GeneratedSoundBanks/Windows/</SoundBanksRoot>
+		<ExternalSourcesInputFile></ExternalSourcesInputFile>
+		<ExternalSourcesOutputRoot>/Users/alysebrown/Library/Application Support/Wwise2017/Bottles/wwise/dosdevices/c:/users/crossover/My Documents/WwiseProjects/Tea Chi Tai Chi/GeneratedSoundBanks/Windows/</ExternalSourcesOutputRoot>
+	</RootPaths>
+	<DialogueEvents/>
+	<StreamedFiles/>
+	<MediaFilesNotInAnyBank/>
+	<SoundBanks>
+		<SoundBank Id="1355168291" Language="SFX">
+			<ObjectPath>Init</ObjectPath>
+			<ShortName>Init</ShortName>
+			<Path>Init.bnk</Path>
+		</SoundBank>
+		<SoundBank Id="1661994096" Language="SFX">
+			<ObjectPath>\SoundBanks\Default Work Unit\soundbank</ObjectPath>
+			<ShortName>soundbank</ShortName>
+			<Path>soundbank.bnk</Path>
+			<IncludedEvents>
+				<Event Id="1479974693" Name="play_piano" ObjectPath="\Events\Default Work Unit\play_piano"/>
+				<Event Id="2873016222" Name="play_taichi" ObjectPath="\Events\Default Work Unit\play_taichi"/>
+			</IncludedEvents>
+			<IncludedMemoryFiles>
+				<File Id="417305372" Language="SFX">
+					<ShortName>401616__luizmourabr__nature-thoughtful-music.wav</ShortName>
+					<Path>SFX/401616__luizmourabr__nature-thoughtful-music_1C9C67B2.wem</Path>
+				</File>
+				<File Id="741334259" Language="SFX">
+					<ShortName>Tai chi Intro (1).wav</ShortName>
+					<Path>SFX/Tai chi Intro (1)_1C9C67B2.wem</Path>
+				</File>
+				<File Id="870962805" Language="SFX">
+					<ShortName>157008__setuniman__romantic-intro-0o-38x2.wav</ShortName>
+					<Path>SFX/157008__setuniman__romantic-intro-0o-38x2_1C9C67B2.wem</Path>
+				</File>
+			</IncludedMemoryFiles>
+		</SoundBank>
+	</SoundBanks>
+</SoundBanksInfo>

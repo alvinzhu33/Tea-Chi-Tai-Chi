@@ -1,0 +1,16 @@
+Prep: 3 things to watch out for
+* Any glitches with shaders
+* How to scaffold a physics sandbox environment
+* What it feels like to manipulate a physics-realistic surface
+
+Reflect: Observations
+* Didn't see any glitches
+* Was impressed by how easy it was to make something specific like my Playground Parachute Physics idea in the sandbox environment
+* Good set of elementary building blocks that can be combined in interesting and novel ways
+* Didn't see many glitches, except when combining different tools (attracters + coloring tool)
+* Not a great learning tool (too hynpnotic), no specific learning goals or ways to record what you're seeing
+* Novel control panels: both absolute location of panel and relative location of pointer to panel changed as you moved you arms (like parallax)
+* Had a tutorial at the beginning that showed the controler and its functions --> was useful
+* Two-layered menu option was confusing
+
+"Tann calls Chroma Lab a “particle physics sandbox,” and says that more than 100,000 particles are simulated in VR at 180Hz using a custom GPU accelerated physics engine. He says the physics engine was written using HLSL compute shaders and that the game doesn’t rely on any vendor-specific rendering technology and is therefore optimized to run on any VR ready GPU, be it AMD or NVIDIA."

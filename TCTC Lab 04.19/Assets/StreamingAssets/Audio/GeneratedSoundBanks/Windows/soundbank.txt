@@ -1,0 +1,9 @@
+Event	ID	Name			Wwise Object Path	Notes
+	1479974693	play_piano			\Default Work Unit\play_piano	
+	2873016222	play_taichi			\Default Work Unit\play_taichi	
+
+In Memory Audio	ID	Name	Audio source file		Wwise Object Path	Notes	Data Size
+	417305372	TaiChi	C:\users\crossover\My Documents\WwiseProjects\Tea Chi Tai Chi\.cache\Windows\SFX\401616__luizmourabr__nature-thoughtful-music_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\TaiChi		4135424
+	741334259	Scott	C:\users\crossover\My Documents\WwiseProjects\Tea Chi Tai Chi\.cache\Windows\SFX\Tai chi Intro (1)_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Scott		5162660
+	870962805	Piano	C:\users\crossover\My Documents\WwiseProjects\Tea Chi Tai Chi\.cache\Windows\SFX\157008__setuniman__romantic-intro-0o-38x2_1C9C67B2.wem		\Actor-Mixer Hierarchy\Default Work Unit\Piano		6773824
+

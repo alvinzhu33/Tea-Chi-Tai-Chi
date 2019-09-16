@@ -1,0 +1,43 @@
+.jumbotron > .row > .col > .list-group-item {
+  background-color: rgba(0,0,0,0);
+  border: none;
+}
+
+.jumbotron > .row > .col > .list-group-item:hover {
+  color: #4a4566;
+  text-decoration: underline;
+  border-color: #4a4566;
+}
+
+.jumbotron {
+  padding: 4rem 2rem 1rem 2rem;
+  background-color: #a3c4bc;
+}
+
+.jumbotron > p {
+  padding-top: 20px;
+  padding-bottom: 40px
+}
+
+.material-icons.md-48 {
+  font-size: 48px;
+  color: #5a547c;
+  padding-top: 10px;
+}
+
+.container > h1 {
+  color: #00cccc;
+}
+
+h2 {
+  padding-top: 20px;
+  color: #007979;
+}
+
+hr {
+  margin-top: 2rem;
+}
+
+.row > .col > center {
+  color:#75B568
+}

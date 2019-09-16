@@ -1,0 +1,167 @@
+fileFormatVersion: 2
+guid: 80bb1c9c4160d7441ae4fb8132568cda
+timeCreated: 1525222946
+licenseType: Free
+ModelImporter:
+  serializedVersion: 22
+  fileIDToRecycleName:
+    100000: reference_biJQtyo7j-r_0_0
+    100002: //RootNode
+    100004: Untitled_3_BlocksPaper_geo
+    100006: Untitled_3_CoarseBristles_geo
+    100008: Untitled_3_DoubleTaperedMarker_geo
+    100010: Untitled_3_Flat_geo
+    100012: Untitled_3_Ink_geo
+    100014: Untitled_3_OilPaint_geo
+    100016: Untitled_3_OilPaint_geo 1
+    100018: Untitled_3_Snow_geo
+    100020: Untitled_3_Splatter_geo
+    100022: Untitled_3_Splatter_geo 1
+    100024: Untitled_3_Stars_geo
+    100026: Untitled_3_TaperedMarker_geo
+    100028: Untitled_3_ThickPaint_geo
+    100030: Untitled_3_ThickPaint_geo 1
+    100032: Untitled_3_ThickPaint_geo 2
+    400000: reference_biJQtyo7j-r_0_0
+    400002: //RootNode
+    400004: Untitled_3_BlocksPaper_geo
+    400006: Untitled_3_CoarseBristles_geo
+    400008: Untitled_3_DoubleTaperedMarker_geo
+    400010: Untitled_3_Flat_geo
+    400012: Untitled_3_Ink_geo
+    400014: Untitled_3_OilPaint_geo
+    400016: Untitled_3_OilPaint_geo 1
+    400018: Untitled_3_Snow_geo
+    400020: Untitled_3_Splatter_geo
+    400022: Untitled_3_Splatter_geo 1
+    400024: Untitled_3_Stars_geo
+    400026: Untitled_3_TaperedMarker_geo
+    400028: Untitled_3_ThickPaint_geo
+    400030: Untitled_3_ThickPaint_geo 1
+    400032: Untitled_3_ThickPaint_geo 2
+    2100000: 87172a98dbe94302a04b211224f9641d_BlocksPaper
+    2300000: Untitled_3_BlocksPaper_geo
+    2300002: Untitled_3_CoarseBristles_geo
+    2300004: Untitled_3_DoubleTaperedMarker_geo
+    2300006: Untitled_3_Flat_geo
+    2300008: Untitled_3_Ink_geo
+    2300010: Untitled_3_OilPaint_geo
+    2300012: Untitled_3_OilPaint_geo 1
+    2300014: Untitled_3_Snow_geo
+    2300016: Untitled_3_Splatter_geo
+    2300018: Untitled_3_Splatter_geo 1
+    2300020: Untitled_3_Stars_geo
+    2300022: Untitled_3_TaperedMarker_geo
+    2300024: Untitled_3_ThickPaint_geo
+    2300026: Untitled_3_ThickPaint_geo 1
+    2300028: Untitled_3_ThickPaint_geo 2
+    3300000: Untitled_3_BlocksPaper_geo
+    3300002: Untitled_3_CoarseBristles_geo
+    3300004: Untitled_3_DoubleTaperedMarker_geo
+    3300006: Untitled_3_Flat_geo
+    3300008: Untitled_3_Ink_geo
+    3300010: Untitled_3_OilPaint_geo
+    3300012: Untitled_3_OilPaint_geo 1
+    3300014: Untitled_3_Snow_geo
+    3300016: Untitled_3_Splatter_geo
+    3300018: Untitled_3_Splatter_geo 1
+    3300020: Untitled_3_Stars_geo
+    3300022: Untitled_3_TaperedMarker_geo
+    3300024: Untitled_3_ThickPaint_geo
+    3300026: Untitled_3_ThickPaint_geo 1
+    3300028: Untitled_3_ThickPaint_geo 2
+    4300000: Untitled_3_Ink_geo
+    4300002: Untitled_3_OilPaint_geo
+    4300004: Untitled_3_OilPaint_geo
+    4300006: Untitled_3_ThickPaint_geo
+    4300008: Untitled_3_ThickPaint_geo
+    4300010: Untitled_3_ThickPaint_geo
+    4300012: Untitled_3_CoarseBristles_geo
+    4300014: Untitled_3_Snow_geo
+    4300016: Untitled_3_Stars_geo
+    4300018: Untitled_3_Flat_geo
+    4300020: Untitled_3_DoubleTaperedMarker_geo
+    4300022: Untitled_3_Splatter_geo
+    4300024: Untitled_3_Splatter_geo
+    4300026: Untitled_3_TaperedMarker_geo
+    4300028: Untitled_3_BlocksPaper_geo
+  externalObjects: {}
+  materials:
+    importMaterials: 1
+    materialName: 0
+    materialSearch: 1
+    materialLocation: 1
+  animations:
+    legacyGenerateAnimations: 4
+    bakeSimulation: 0
+    resampleCurves: 1
+    optimizeGameObjects: 0
+    motionNodeName: 
+    rigImportErrors: 
+    rigImportWarnings: 
+    animationImportErrors: 
+    animationImportWarnings: 
+    animationRetargetingWarnings: 
+    animationDoRetargetingWarnings: 0
+    importAnimatedCustomProperties: 0
+    animationCompression: 1
+    animationRotationError: 0.5
+    animationPositionError: 0.5
+    animationScaleError: 0.5
+    animationWrapMode: 0
+    extraExposedTransformPaths: []
+    extraUserProperties: []
+    clipAnimations: []
+    isReadable: 1
+  meshes:
+    lODScreenPercentages: []
+    globalScale: 1
+    meshCompression: 0
+    addColliders: 0
+    importVisibility: 1
+    importBlendShapes: 1
+    importCameras: 1
+    importLights: 1
+    swapUVChannels: 0
+    generateSecondaryUV: 0
+    useFileUnits: 1
+    optimizeMeshForGPU: 0
+    keepQuads: 0
+    weldVertices: 1
+    preserveHierarchy: 0
+    indexFormat: 0
+    secondaryUVAngleDistortion: 8
+    secondaryUVAreaDistortion: 15.000001
+    secondaryUVHardAngle: 88
+    secondaryUVPackMargin: 4
+    useFileScale: 1
+  tangentSpace:
+    normalSmoothAngle: 60
+    normalImportMode: 0
+    tangentImportMode: 3
+    normalCalculationMode: 4
+  importAnimation: 1
+  copyAvatar: 0
+  humanDescription:
+    serializedVersion: 2
+    human: []
+    skeleton: []
+    armTwist: 0.5
+    foreArmTwist: 0.5
+    upperLegTwist: 0.5
+    legTwist: 0.5
+    armStretch: 0.05
+    legStretch: 0.05
+    feetSpacing: 0
+    rootMotionBoneName: 
+    rootMotionBoneRotation: {x: 0, y: 0, z: 0, w: 1}
+    hasTranslationDoF: 0
+    hasExtraRoot: 0
+    skeletonHasParents: 1
+  lastHumanDescriptionAvatarSource: {instanceID: 0}
+  animationType: 0
+  humanoidOversampling: 1
+  additionalBone: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
